@@ -8,7 +8,7 @@ using namespace std;
 #include "Test.h"
 
 int main() {
-	//correrTestsColaPedidos();
+	correrTestsColaPedidos();
 	correrTestsPapaNoel();
 	return 0;
 }
